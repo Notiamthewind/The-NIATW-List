@@ -1,16 +1,16 @@
 {
-    "id": 57436521,
-    "name": "Test",
-    "author": "Test_Uploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Testing verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 10,
-    "password": "Not Copyable",
+    "id": 141436232,
+    "name": "Windy wave",
+    "author": "Froose",
+    "creators": ["Froose"],
+    "verifier": "Froose",
+    "verification": "https://youtu.be/GBCiWLmwSHc",
+    "percentToQualify": 100,
+    "password": "No Password",
     "records": [
         {
-            "user": "Test_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Braverysoul69",
+            "link": "https://www.youtube.com/watch?v=wSdT52Ux2-k"
             "percent": 100,
             "hz": 144
         }
